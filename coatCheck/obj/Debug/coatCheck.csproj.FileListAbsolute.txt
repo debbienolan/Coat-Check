@@ -1,0 +1,6 @@
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\bin\Debug\coatCheck.exe.config
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\bin\Debug\coatCheck.exe
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\bin\Debug\coatCheck.pdb
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\obj\Debug\coatCheck.csprojResolveAssemblyReference.cache
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\obj\Debug\coatCheck.exe
+c:\users\deb\documents\visual studio 2015\Projects\coatCheck\coatCheck\obj\Debug\coatCheck.pdb
